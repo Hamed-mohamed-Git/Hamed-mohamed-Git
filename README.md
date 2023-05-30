@@ -11,6 +11,7 @@ Mobile app developer who has a track record of success creating apps that are bo
 
 
 ## Connect with me  
+<br/> 
 <div align="center">
 <a href="https://github.com/Hamed-mohamed-Git" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -31,6 +32,17 @@ Mobile app developer who has a track record of success creating apps that are bo
   <a href="hamedarfat9@gmail.com" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" />
 </a> 
+</div>  
+
+## Github Stats 
+<br/> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hamed-Mohamed-Git&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>  
+
+## Profile:
+<br/> 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Hamed-Mohamed-Git&&style=flat-square" align="center" />
 </div>  
 
 
