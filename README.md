@@ -24,6 +24,13 @@ Mobile app developer who has a track record of success creating apps that are bo
 <a href="https://medium.com/@hamedarfat9" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
+  <a href="Hamed#0709" target="_blank">
+ <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord logo"  />
+</a> 
+ </a>  
+  <a href="hamedarfat9@gmail.com" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" />
+</a> 
 </div>  
 
 
