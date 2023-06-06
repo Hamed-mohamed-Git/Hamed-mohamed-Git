@@ -3,11 +3,14 @@
 
 ## About me:
 Mobile app developer who has a track record of success creating apps that are both well- received and commercially viable. Skilled in working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing app to keep people downloading it and enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely perfect.
+<br/> 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Hamed-Mohamed-Git&&style=flat-square" align="center" />
+</div> 
 
 ## Skills:
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
-![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,cpp,sqlite,androidstudio,idea,eclipse,firebase,git,ktor,gradle,maven,reactivex,graphql,stackoverflow,github,postman,figma,xd,discord)](https://skillicons.dev)
+
 
 
 ## Connect with me  
@@ -36,14 +39,13 @@ Mobile app developer who has a track record of success creating apps that are bo
 
 ## Github Stats 
 <br/> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hamed-Mohamed-Git&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamed-Mohamed-Git&show_icons=true&count_private=true&hide_border=true&theme=onedark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamed-Mohamed-Git&hide_border=true&theme=onedark">
+</div>  
 <br/>  
 
-## Profile:
-<br/> 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Hamed-Mohamed-Git&&style=flat-square" align="center" />
-</div>  
+
 
 
 
