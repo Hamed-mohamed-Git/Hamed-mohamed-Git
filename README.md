@@ -40,8 +40,8 @@ Mobile app developer who has a track record of success creating apps that are bo
 ## Github Stats 
 <br/> 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamed-Mohamed-Git&show_icons=true&count_private=true&hide_border=true&theme=onedark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamed-Mohamed-Git&hide_border=true&theme=onedark">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Hamed-Mohamed-Git&show_icons=true&count_private=true&hide_border=true&theme=onedark"/>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamed-Mohamed-Git&hide_border=true&theme=onedark">
 </div>  
 <br/>  
 
